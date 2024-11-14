@@ -1,4 +1,4 @@
-<img align="center" alt="headline" width="auto" height="auto" src="https://media.giphy.com/media/sULKEgDMX8LcI/giphy.gif?cid=ecf05e47q9bzffc27jx3rggmobpi96pac68g1heffss5x7ss&ep=v1_gifs_related&rid=giphy.gif&ct=g">
+![MasterHead](https://i.redd.it/o76bp3aoz6yb1.gif)
 <h1 align="center">Hi 👋, I'm Koustav Singh</h1>
 <h3 align="center">A Passionate Web Developer</h3>
 <h1 align="left">💫 About Me: </h1>
