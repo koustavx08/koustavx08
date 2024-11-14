@@ -1,4 +1,4 @@
-![MasterHead](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNG5tbTZ1cmR4ejdyenE4ZGJ0cXd1bGR5ZjJ5MzI3YXE5NnlsYnhseSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/10zxDv7Hv5RF9C/giphy.gif)
+![MasterHead](https://media.giphy.com/media/sULKEgDMX8LcI/giphy.gif?cid=ecf05e47q9bzffc27jx3rggmobpi96pac68g1heffss5x7ss&ep=v1_gifs_related&rid=giphy.gif&ct=g)
 <h1 align="center">Hi 👋, I'm Koustav Singh</h1>
 <h3 align="center">A Passionate Web Developer</h3>
 <h1 align="left">💫 About Me: </h1>
