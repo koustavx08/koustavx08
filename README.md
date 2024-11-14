@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Koustav Singh</h1>
 <h3 align="center">A Passionate Web Developer</h3>
 <h1 align="left">💫 About Me: </h1>
-<img align="right" alt="Coding" width="200" height="200" src="https://media0.giphy.com/media/Ll22OhMLAlVDb8UQWe/source.gif">
+<img align="right" alt="Coding" width="200" height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHplOTlsenBpYjJ3NGJkajFnZ2FlcWlsYnd6enBmNWJ1aG1oaDd6bSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif">
 <br><br>
 A BTech IT student and a Tech Enthusiast 🔭<br>Excited about learning and exploring new things ⚡<br>Doing Full Stack Development and UI/UX designs 😄<br>Interests in Machine Learning and BlockChain 🤔
 <br>
