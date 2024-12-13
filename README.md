@@ -1,4 +1,7 @@
-![MasterHead](https://i.redd.it/o76bp3aoz6yb1.gif)
+<!-- ![MasterHead](https://i.redd.it/o76bp3aoz6yb1.gif) -->
+<!-- ![MasterHead](https://i.pinimg.com/originals/ab/eb/3a/abeb3a2030882a1bf12225d23701ee5b.gif) -->
+<!-- ![MasterHead](https://i.pinimg.com/originals/36/2d/5c/362d5c55859146c0c7debfca296ad321.gif) -->
+![MasterHead](https://i.pinimg.com/originals/d4/63/f2/d463f24b0e1f3f1ce6680d601c97e6a0.gif)
 <h1 align="center">Hi 👋, I'm Koustav Singh</h1>
 <h3 align="center">A Passionate Web Developer</h3>
 <h1 align="left">💫 About Me: </h1>
