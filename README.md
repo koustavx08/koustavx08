@@ -14,7 +14,7 @@ A BTech IT student and a Tech Enthusiast 🔭<br>Excited about learning and expl
 
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 <p align="left">
 <a href="https://x.com/KoustavTweets05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anirban12x" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/koustav-singh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anirban12x" height="30" width="40" /></a>
@@ -30,5 +30,5 @@ A BTech IT student and a Tech Enthusiast 🔭<br>Excited about learning and expl
 # 📈 Activity Graph
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=koustavx08&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-### ✍️ Random Dev Quote
+# ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
