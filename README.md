@@ -136,11 +136,12 @@ const koustav = {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=koustavx08&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&border_radius=10" alt="GitHub Stats"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=koustavx08&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_radius=10" alt="Top Languages"/>
-<img width="49%" src="https://github-readme-streak-stats.vercel.app/?user=koustavx08&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=1F6FEB&fire=FF6B6B&currStreakLabel=58A6FF&border_radius=10" alt="GitHub Streak"/>
-<img width="42%" src="https://github-readme-stats.hackclub.dev/api/wakatime?username=7803&api_domain=hackatime.hackclub.com&theme=darcula&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8" alt="Coding Time"/>
-
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=koustavx08&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&border_radius=10" alt="GitHub Stats"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=koustavx08&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_radius=10" alt="Top Languages"/>
+  <a href="https://git.io/streak-stats">
+    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=koustavx08&theme=tokyonight" alt="GitHub Streak"/>
+  </a>
+  <img width="49%" src="https://github-readme-stats.hackclub.dev/api/wakatime?username=7803&api_domain=hackatime.hackclub.com&theme=darcula&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8" alt="Coding Time"/>
 </div>
 
 <!-- ### 🏆 GitHub Trophies
