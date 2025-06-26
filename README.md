@@ -21,9 +21,8 @@
 
 ---
 
-<img align="right" alt="Coding" width="250" style="max-width:100%;height:auto;object-fit:cover;" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHplOTlsenBpYjJ3NGJkajFnZ2FlcWlsYnd6enBmNWJ1aG1oaDd6bSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif">
-
-## 🚀 About Me
+<div style="display: flex; align-items: center; gap: 24px;">
+  <div style="flex: 1; min-width: 0;">
 
 ```typescript
 const koustav = {
@@ -37,6 +36,10 @@ const koustav = {
     motto: "Code with passion, debug with patience! 💪"
 };
 ```
+
+  </div>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHplOTlsenBpYjJ3NGJkajFnZ2FlcWlsYnd6enBmNWJ1aG1oaDd6bSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif" alt="Coding" style="width: 220px; max-width: 100%; height: auto; border-radius: 10px; object-fit: cover;" />
+</div>
 
 ### 🎯 What I'm up to:
 
