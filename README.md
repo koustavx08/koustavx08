@@ -21,8 +21,9 @@
 
 ---
 
-<div style="display: flex; align-items: center; gap: 24px;">
-  <div style="flex: 1; min-width: 0;">
+<table>
+  <tr>
+    <td>
 
 ```typescript
 const koustav = {
@@ -37,9 +38,12 @@ const koustav = {
 };
 ```
 
-  </div>
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHplOTlsenBpYjJ3NGJkajFnZ2FlcWlsYnd6enBmNWJ1aG1oaDd6bSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif" alt="Coding" style="width: 220px; max-width: 100%; height: auto; border-radius: 10px; object-fit: cover;" />
-</div>
+</td>
+<td>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHplOTlsenBpYjJ3NGJkajFnZ2FlcWlsYnd6enBmNWJ1aG1oaDd6bSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif" alt="Coding" width="220" style="border-radius:10px;"/>
+</td>
+  </tr>
+</table>
 
 ### 🎯 What I'm up to:
 
