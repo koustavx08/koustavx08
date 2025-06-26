@@ -129,6 +129,8 @@ const koustav = {
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 ![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
+![Avalanche](https://img.shields.io/badge/Avalanche-E84142?style=for-the-badge&logo=avalanche-avax&logoColor=white)
+![Solana](https://img.shields.io/badge/Solana-3A4CA3?style=for-the-badge&logo=solana&logoColor=white)
 
 </div>
 
@@ -138,12 +140,12 @@ const koustav = {
 
 <div align="center">
 
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=koustavx08&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&border_radius=10" alt="GitHub Statistics"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=koustavx08&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_radius=10" alt="Top Languages"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=koustavx08&show_icons=true&theme=transparent&hide_border=true&bg_color=00000000&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&border_radius=10" alt="GitHub Statistics"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=koustavx08&layout=compact&theme=transparent&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=C9D1D9&border_radius=10" alt="Top Languages"/>
   <a href="https://git.io/streak-stats">
     <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=koustavx08&theme=transparent" alt="GitHub Contribution Streak"/>
   </a>
-  <img width="49%" src="https://github-readme-stats.hackclub.dev/api/wakatime?username=7803&api_domain=hackatime.hackclub.com&theme=darcula&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8" alt="Coding Activity"/>
+  <img width="49%" src="https://github-readme-stats.hackclub.dev/api/wakatime?username=7803&api_domain=hackatime.hackclub.com&theme=transparent&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8&bg_color=00000000" alt="Coding Activity"/>
 </div>
 
 <!-- ### 🏆 GitHub Trophies
