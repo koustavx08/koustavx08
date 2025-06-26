@@ -6,7 +6,7 @@
 </div>
 
 <div align="center">
-  <img src="https://i.pinimg.com/originals/d4/63/f2/d463f24b0e1f3f1ce6680d601c97e6a0.gif" width="100%" height="300" alt="Coding Animation"/>
+  <img src="https://i.pinimg.com/originals/d4/63/f2/d463f24b0e1f3f1ce6680d601c97e6a0.gif" style="width:100%;max-width:900px;height:auto;max-height:320px;object-fit:cover;" alt="Coding Animation"/>
 </div>
 
 <div align="center">
@@ -21,7 +21,7 @@
 
 ---
 
-<img align="right" alt="Coding" width="300" height="250" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHplOTlsenBpYjJ3NGJkajFnZ2FlcWlsYnd6enBmNWJ1aG1oaDd6bSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif">
+<img align="right" alt="Coding" width="250" style="max-width:100%;height:auto;object-fit:cover;" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHplOTlsenBpYjJ3NGJkajFnZ2FlcWlsYnd6enBmNWJ1aG1oaDd6bSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif">
 
 ## 🚀 About Me
 
