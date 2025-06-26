@@ -11,7 +11,7 @@
 
 <div align="center">
   
-  ### 🌟 Welcome to my Digital Universe! 🌟
+  <h3>Welcome to My Professional Portfolio</h3>
   
   <img src="https://komarev.com/ghpvc/?username=koustavx08&style=for-the-badge&color=blueviolet" alt="Profile Views"/>
   <img src="https://img.shields.io/github/followers/koustavx08?style=for-the-badge&color=blue" alt="Followers"/>
@@ -45,20 +45,15 @@ const koustav = {
   </tr>
 </table>
 
-### 🎯 What I'm up to:
+### Professional Summary
 
-- 🔭 Currently working on **Full Stack Applications**
-- 🌱 Learning **System Design & Microservices**
-- � Exploring **AI/ML Integration in Web Apps**
-- 🎨 Crafting beautiful **UI/UX Experiences**
-- 🌟 Building projects that **make a difference**
+- 🔭 Currently developing robust full stack applications
+- 🌱 Expanding expertise in system design and microservices
+- 🤖 Exploring AI/ML integration in modern web solutions
+- 🎨 Dedicated to delivering exceptional UI/UX experiences
+- 🌟 Committed to building impactful and scalable projects
 
 <br clear="right"/>
-
-
-
-
-
 
 ---
 
@@ -79,11 +74,11 @@ const koustav = {
 
 ---
 
-## 🛠️ Tech Arsenal
+## 🛠️ Technical Proficiencies
 
 <div align="center">
 
-### 🎨 Frontend Development
+### Frontend Development
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -94,7 +89,7 @@ const koustav = {
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### ⚙️ Backend Development
+### Backend Development
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -105,7 +100,7 @@ const koustav = {
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
-### 🗄️ Databases & Cloud
+### Databases & Cloud
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -115,14 +110,14 @@ const koustav = {
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
-### 🤖 AI/ML & Data Science
+### AI/ML & Data Science
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
 
-### 🔧 Tools & DevOps
+### Tools & DevOps
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -130,7 +125,7 @@ const koustav = {
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 
-### 🔗 Blockchain & Web3
+### Blockchain & Web3
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 ![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
@@ -143,12 +138,12 @@ const koustav = {
 
 <div align="center">
 
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=koustavx08&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&border_radius=10" alt="GitHub Stats"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=koustavx08&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&border_radius=10" alt="GitHub Statistics"/>
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=koustavx08&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_radius=10" alt="Top Languages"/>
   <a href="https://git.io/streak-stats">
-    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=koustavx08&theme=transparent" alt="GitHub Streak"/>
+    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=koustavx08&theme=transparent" alt="GitHub Contribution Streak"/>
   </a>
-  <img width="49%" src="https://github-readme-stats.hackclub.dev/api/wakatime?username=7803&api_domain=hackatime.hackclub.com&theme=darcula&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8" alt="Coding Time"/>
+  <img width="49%" src="https://github-readme-stats.hackclub.dev/api/wakatime?username=7803&api_domain=hackatime.hackclub.com&theme=darcula&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8" alt="Coding Activity"/>
 </div>
 
 <!-- ### 🏆 GitHub Trophies
@@ -165,7 +160,7 @@ const koustav = {
 
 ---
 
-## 💡 Random Dev Wisdom
+## 💡 Professional Wisdom
 
 <div align="center">
 
@@ -175,12 +170,12 @@ const koustav = {
 
 ---
 
-## 🎮 When I'm Not Coding
+## Interests Beyond Coding
 
 <div align="center">
   
 ```ascii
-    🎵 Music Lover     🎮 Gamer     📚 Tech Blogger     🎥 Content Creator
+    🎵 Music Enthusiast     🎮 Gamer     📚 Tech Blogger     🎥 Content Creator
 
          "Life is a game, code is the cheat sheet!" 🚀
 ```
@@ -191,17 +186,17 @@ const koustav = {
 
 <div align="center">
   
-### 💖 Support My Work
+### Support My Work
 
-If you like what I do, maybe consider buying me a coffee/tea? 🥺👉👈
+If you appreciate my contributions, consider supporting me with a coffee or tea.
 
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/koustavx08)
 ---
 
 [![](https://visitcount.itsvg.in/api?id=koustavx08&icon=0&color=0)](https://visitcount.itsvg.in)
 
-**✨ "Building dreams one commit at a time!" ✨**
+**✨ Building dreams, one commit at a time. ✨**
 
-<sub>💙 This README was made with lots of ❤️ and ☕</sub>
+<sub>💙 This README was crafted with dedication and passion for technology.</sub>
 
 </div>
