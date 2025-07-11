@@ -19,9 +19,28 @@
   
 </div>
 
----
 
 <table>
+
+---
+
+
+## 📚 Learning Curve
+
+<div align="center">
+
+### Currently Learning: Automation & Automation Tools
+
+<p align="center">
+  <img src="https://img.shields.io/badge/n8n%20Video%20Courses-orange?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n Video Courses"/>
+  <img src="https://img.shields.io/badge/LangGraph%20Agentic%20AI-blueviolet?style=for-the-badge&logo=ai&logoColor=white" alt="LangGraph Agentic AI"/>
+  <img src="https://img.shields.io/badge/n8n%20SuperAgents-00C7B7?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n SuperAgents"/>
+  <img src="https://img.shields.io/badge/Build%20AI%20Agents%20in%20n8n-FF6F00?style=for-the-badge&logo=OpenAI&logoColor=white" alt="Build AI Agents in n8n"/>
+</p>
+
+</div>
+
+---
   <tr>
     <td>
 
