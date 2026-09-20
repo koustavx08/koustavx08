@@ -116,7 +116,36 @@ const koustav = {
 <div align="center">
 
 <img
-  src="https://streak-stats.demolab.com?user=koustavx08&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=C9D1D9"
+  src="assets/profile.svg"
+  width="76%"
+  alt="GitHub profile activity"
+/>
+
+<table>
+<tr>
+<td width="50%" align="center">
+
+<img
+  src="assets/stats.svg"
+  width="100%"
+  alt="GitHub statistics"
+/>
+
+</td>
+<td width="50%" align="center">
+
+<img
+  src="assets/productive-time.svg"
+  width="100%"
+  alt="Commit activity by time"
+/>
+
+</td>
+</tr>
+</table>
+
+<img
+  src="assets/streak.svg"
   width="70%"
   alt="Contribution streak"
 />
@@ -124,7 +153,7 @@ const koustav = {
 <br/><br/>
 
 <img
-  src="https://ghchart.rshah.org/58a6ff/koustavx08"
+  src="assets/contributions.svg"
   width="94%"
   alt="Contribution chart"
 />

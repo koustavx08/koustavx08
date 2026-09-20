@@ -1,0 +1,39 @@
+name: refresh activity cards
+
+on:
+  schedule:
+    - cron: "17 3 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Download cards
+        run: |
+          base=https://github-profile-summary-cards.vercel.app/api/cards
+          fetch() {
+            # keep the committed copy if the upstream is down or rate limited
+            curl -sf --max-time 30 "$2" -o /tmp/card.svg || { echo "skip $1: fetch failed"; return; }
+            grep -qi "ERROR\|rate limited" /tmp/card.svg && { echo "skip $1: rate limited"; return; }
+            mv /tmp/card.svg "assets/$1.svg"
+            echo "updated $1"
+          }
+          fetch profile         "$base/profile-details?username=koustavx08&theme=github_dark"
+          fetch stats           "$base/stats?username=koustavx08&theme=github_dark"
+          fetch productive-time "$base/productive-time?username=koustavx08&theme=github_dark&utcOffset=5.5"
+          fetch streak          "https://streak-stats.demolab.com?user=koustavx08&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=C9D1D9"
+          fetch contributions   "https://ghchart.rshah.org/58a6ff/koustavx08"
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets
+          git diff --staged --quiet || git commit -m "Refresh activity cards"
+          git push
