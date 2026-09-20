@@ -12,6 +12,7 @@
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/koustavx08)
 [![x](https://img.shields.io/badge/x-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/koustavx08)
 [![hashnode](https://img.shields.io/badge/hashnode-2962FF?style=flat-square&logo=hashnode&logoColor=white)](https://koustavx08.hashnode.dev)
+[![discord](https://img.shields.io/badge/discord-%40koustavx08-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/1214583767562457168)
 [![mail](https://img.shields.io/badge/mail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:koustavsinghcollege@gmail.com)
 ![views](https://komarev.com/ghpvc/?username=koustavx08&style=flat-square&color=555555&label=views)
 
