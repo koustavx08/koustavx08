@@ -1,7 +1,7 @@
 <div align="center">
   
   <!-- Matrix Typing Effect Header -->
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=35&duration=3000&pause=1000&color=00F5FF&background=000000&center=true&vCenter=true&random=false&width=1000&height=100&lines=Hello+World!+I'm+Koustav+Singh+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%9A%80;Tech+Enthusiast+%26+Problem+Solver+%F0%9F%A7%A0;Building+the+Future%2C+One+Line+at+a+Time+%E2%9C%A8)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=35&duration=3000&pause=1000&color=00F5FF&background=000000&center=true&vCenter=true&random=false&width=1000&height=100&lines=Hello+World!+I'm+Koustav+Singh+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%9A%80;Tech+Enthusiast+%26+Problem+Solver+%F0%9F%A7%A0;Building+the+Future%2C+One+Line+at+a+Time+%E2%9C%A8)](https://git.io/typing-svg)
   
 </div>
 
@@ -19,8 +19,6 @@
   
 </div>
 
-
-<table>
 
 ---
 
@@ -41,6 +39,8 @@
 </div>
 
 ---
+
+<table>
   <tr>
     <td>
 
@@ -162,7 +162,7 @@ const koustav = {
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=koustavx08&show_icons=true&theme=transparent&hide_border=true&bg_color=00000000&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&border_radius=10" alt="GitHub Statistics"/>
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=koustavx08&layout=compact&theme=transparent&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=C9D1D9&border_radius=10" alt="Top Languages"/>
   <a href="https://git.io/streak-stats">
-    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=koustavx08&theme=transparent" alt="GitHub Contribution Streak"/>
+    <img width="49%" src="https://streak-stats.demolab.com?user=koustavx08&theme=transparent" alt="GitHub Contribution Streak"/>
   </a>
   <img width="49%" src="https://github-readme-stats.hackclub.dev/api/wakatime?username=7803&api_domain=hackatime.hackclub.com&theme=transparent&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8&bg_color=00000000" alt="Coding Activity"/>
 </div>
