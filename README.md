@@ -155,29 +155,40 @@ const koustav = {
 
 ---
 
-## 📊 GitHub Analytics
+## `~/activity`
 
 <div align="center">
 
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=koustavx08&show_icons=true&theme=transparent&hide_border=true&bg_color=00000000&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&border_radius=10" alt="GitHub Statistics"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=koustavx08&layout=compact&theme=transparent&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=C9D1D9&border_radius=10" alt="Top Languages"/>
-  <a href="https://git.io/streak-stats">
-    <img width="49%" src="https://streak-stats.demolab.com?user=koustavx08&theme=transparent" alt="GitHub Contribution Streak"/>
-  </a>
-  <img width="49%" src="https://github-readme-stats.hackclub.dev/api/wakatime?username=7803&api_domain=hackatime.hackclub.com&theme=transparent&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8&bg_color=00000000" alt="Coding Activity"/>
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=koustavx08&theme=github_dark"
+  width="76%"
+  alt="GitHub profile activity"
+/>
+
+<table>
+<tr>
+<td width="50%" align="center">
+
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=koustavx08&theme=github_dark"
+  width="100%"
+  alt="GitHub statistics"
+/>
+
+</td>
+<td width="50%" align="center">
+
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=koustavx08&theme=github_dark&utcOffset=5.5"
+  width="100%"
+  alt="Commit activity by time"
+/>
+
+</td>
+</tr>
+</table>
+
 </div>
-
-<!-- ### 🏆 GitHub Trophies
-
-<div align="center">
-  
-[![trophy](https://github-profile-trophy.vercel.app/?username=koustavx08&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div> -->
-
-### 📈 Contribution Graph
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=koustavx08&custom_title=Koustav's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=FF6B6B&area_color=1F6FEB&title_color=58A6FF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
