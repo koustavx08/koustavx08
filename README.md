@@ -24,7 +24,7 @@
 ```ts
 const koustav = {
   location: "India 🇮🇳",
-  education: "BTech IT",
+  education: "BTech",
   focus: ["full stack", "ui/ux", "agentic AI"],
   learning: ["system design", "n8n", "LangGraph"],
   interests: ["ML", "blockchain", "web3", "devops"],
