@@ -6,7 +6,7 @@
 
 # `koustav singh`
 
-**full stack developer** &nbsp;·&nbsp; **btech IT** &nbsp;·&nbsp; **india**
+**full stack developer** &nbsp;·&nbsp; **btech** &nbsp;·&nbsp; **india**
 
 [![portfolio](https://img.shields.io/badge/portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://koustavx08.vercel.app)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/koustavx08)
