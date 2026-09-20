@@ -8,7 +8,7 @@
 
 **full stack developer** &nbsp;·&nbsp; **web3 developer** &nbsp;·&nbsp; **btech** &nbsp;·&nbsp; **india**
 
-[![portfolio](https://img.shields.io/badge/portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://koustavx08.vercel.app)
+[![portfolio](https://img.shields.io/badge/portfolio-000000?style=flat-square&logo=googlechrome&logoColor=white)](https://koustavx08.runs-on.dev)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=flat-square)](https://www.linkedin.com/in/koustavx08)
 [![x](https://img.shields.io/badge/x-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/koustavx08)
 [![hashnode](https://img.shields.io/badge/hashnode-2962FF?style=flat-square&logo=hashnode&logoColor=white)](https://koustavx08.hashnode.dev)
