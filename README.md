@@ -139,6 +139,12 @@ const koustav = {
 </tr>
 </table>
 
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=koustavx08&bg_color=0D1117&color=C9D1D9&line=58A6FF&point=58A6FF&area_color=1F6FEB&area=true&hide_border=true&custom_title=contribution%20graph"
+  width="100%"
+  alt="Contribution graph"
+/>
+
 </div>
 
 ---
