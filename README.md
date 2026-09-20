@@ -6,10 +6,10 @@
 
 # `koustav singh`
 
-**full stack developer** &nbsp;·&nbsp; **btech** &nbsp;·&nbsp; **india**
+**full stack developer** &nbsp;·&nbsp; **web3 developer** &nbsp;·&nbsp; **btech** &nbsp;·&nbsp; **india**
 
 [![portfolio](https://img.shields.io/badge/portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://koustavx08.vercel.app)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/koustavx08)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=flat-square)](https://www.linkedin.com/in/koustavx08)
 [![x](https://img.shields.io/badge/x-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/koustavx08)
 [![hashnode](https://img.shields.io/badge/hashnode-2962FF?style=flat-square&logo=hashnode&logoColor=white)](https://koustavx08.hashnode.dev)
 [![discord](https://img.shields.io/badge/discord-%40koustavx08-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/1214583767562457168)
@@ -26,21 +26,37 @@
 const koustav = {
   location: "India 🇮🇳",
   education: "BTech",
-  focus: ["full stack", "ui/ux", "agentic AI"],
-  learning: ["system design", "n8n", "LangGraph"],
-  interests: ["ML", "blockchain", "web3", "devops"],
+  focus: ["full stack", "web3"],
+  building: ["dapps", "smart contracts", "web apps"],
+  chains: ["ethereum", "solana", "avalanche"],
+  learning: ["system design", "protocol design", "agentic AI"],
   motto: "code with passion, debug with patience",
 };
 ```
 
-- building full stack apps end to end
-- wiring AI agents and automation into real workflows
-- digging into system design and microservices
-- caring about the UI as much as the API
+- shipping full stack apps end to end, browser to database
+- writing and testing smart contracts, wiring them to real frontends
+- connecting web2 UX with web3 rails so onboarding does not hurt
+- digging into system design, microservices and protocol internals
 
 ---
 
 ## `~/stack`
+
+**web3**
+
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
+![Solana](https://img.shields.io/badge/Solana-9945FF?style=flat-square&logo=solana&logoColor=white)
+![Avalanche](https://img.shields.io/badge/Avalanche-E84142?style=flat-square)
+![Hardhat](https://img.shields.io/badge/Hardhat-FFF04D?style=flat-square&logoColor=black)
+![Foundry](https://img.shields.io/badge/Foundry-2B2B2B?style=flat-square)
+![ethers.js](https://img.shields.io/badge/ethers.js-2535A0?style=flat-square&logo=ethereum&logoColor=white)
+![wagmi](https://img.shields.io/badge/wagmi-1B1B1F?style=flat-square)
+![viem](https://img.shields.io/badge/viem-F5A623?style=flat-square&logoColor=black)
+![IPFS](https://img.shields.io/badge/IPFS-65C2CB?style=flat-square&logo=ipfs&logoColor=white)
+![MetaMask](https://img.shields.io/badge/MetaMask-F6851B?style=flat-square)
+![The Graph](https://img.shields.io/badge/The%20Graph-6747ED?style=flat-square)
 
 **frontend**
 
@@ -66,43 +82,31 @@ const koustav = {
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-
-**ai / ml**
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
-
-**web3**
-
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
-![Solana](https://img.shields.io/badge/Solana-9945FF?style=flat-square&logo=solana&logoColor=white)
-![Avalanche](https://img.shields.io/badge/Avalanche-E84142?style=flat-square&logo=avalanche&logoColor=white)
 
 **tooling**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square)
+
+**also**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
 
 ---
 
 ## `~/learning`
 
 ```
-> currently: automation & agentic AI
-  ├── n8n video courses
-  ├── n8n superagents
-  ├── build AI agents in n8n
-  └── LangGraph agentic AI
+> smart contract security & gas optimization
+> protocol / system design at scale
+> agentic AI and automation (n8n, LangGraph)
 ```
 
 ---
