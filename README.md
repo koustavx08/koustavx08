@@ -112,38 +112,17 @@ const koustav = {
 <div align="center">
 
 <img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=koustavx08&theme=github_dark"
-  width="76%"
-  alt="GitHub profile activity"
+  src="https://streak-stats.demolab.com?user=koustavx08&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=C9D1D9"
+  width="70%"
+  alt="Contribution streak"
 />
 
-<table>
-<tr>
-<td width="50%" align="center">
+<br/><br/>
 
 <img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=koustavx08&theme=github_dark"
-  width="100%"
-  alt="GitHub statistics"
-/>
-
-</td>
-<td width="50%" align="center">
-
-<img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=koustavx08&theme=github_dark&utcOffset=5.5"
-  width="100%"
-  alt="Commit activity by time"
-/>
-
-</td>
-</tr>
-</table>
-
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=koustavx08&bg_color=0D1117&color=C9D1D9&line=58A6FF&point=58A6FF&area_color=1F6FEB&area=true&hide_border=true&custom_title=contribution%20graph"
-  width="100%"
-  alt="Contribution graph"
+  src="https://ghchart.rshah.org/58a6ff/koustavx08"
+  width="94%"
+  alt="Contribution chart"
 />
 
 </div>
